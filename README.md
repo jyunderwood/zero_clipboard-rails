@@ -1,6 +1,6 @@
 # zero_clipboard-rails
 
-This gem provides the Zero Clipboard Javascript/Flash library for your Rails 3.1+ app.
+This gem provides the ZeroClipboard Javascript/Flash library for a Rails 3.1+ application.
 
 ### Provides version 1.0.8 of ZeroClipboard.
 
@@ -16,7 +16,7 @@ gem 'zero_clipboard-rails'
 
 This will add the ZeroClipboard .js and .swf files to your asset pipeline.
 
-Then require it in in your `application.js` manifest file:
+Then require it in your `application.js` manifest file:
 
 ```
 //= require zero_clipboard
