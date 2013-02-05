@@ -2,7 +2,7 @@
 
 This gem provides the ZeroClipboard Javascript/Flash library for a Rails 3.1+ application.
 
-### Provides version 1.1.7 of ZeroClipboard.
+### Provides version 1.1.6 of ZeroClipboard.
 
 For more information about Zero Clipboard, visit [https://github.com/jonrohan/ZeroClipboard/](https://github.com/jonrohan/ZeroClipboard/)
 
