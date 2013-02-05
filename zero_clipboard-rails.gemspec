@@ -6,8 +6,8 @@ Gem::Specification.new do |gem|
   gem.version       = ZeroClipboard::Rails::VERSION
   gem.platform      = Gem::Platform::RUBY
 
-  gem.summary       = "Provides version #{ZeroClipboard::Rails::ZERO_CLIPBOARD_VERSION} of ZeroClipboard for Rails 3.1+"
-  gem.description   = "This gem provides version #{ZeroClipboard::Rails::ZERO_CLIPBOARD_VERSION} of the ZeroClipboard JavaScript/Flash library for a Rails 3.1+ application."
+  gem.summary       = "Provides ZeroClipboard v#{ZeroClipboard::Rails::ZERO_CLIPBOARD_VERSION} for Rails 3.1+"
+  gem.description   = "This gem provides ZeroClipboard v#{ZeroClipboard::Rails::ZERO_CLIPBOARD_VERSION} JavaScript/Flash library for a Rails 3.1+ application."
   gem.homepage      = 'https://github.com/jyunderwood/zero_clipboard-rails'
 
   gem.authors       = ['Jonathan Underwood']
