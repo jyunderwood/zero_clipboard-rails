@@ -1,8 +1,8 @@
 # ZeroClipboard for Rails
 
-This gem provides the ZeroClipboard Javascript/Flash library for a Rails 3.1+ application.
+This gem provides the ZeroClipboard Javascript/Flash library for Rails 3.1+ and Rails 4 applications.
 
-### Provides version 1.1.6 of ZeroClipboard.
+### Provides version 1.3.5 of ZeroClipboard
 
 For more information about Zero Clipboard, visit [https://github.com/jonrohan/ZeroClipboard/](https://github.com/jonrohan/ZeroClipboard/)
 
@@ -32,4 +32,4 @@ Then require it in your `application.js` manifest file:
 
 ## License
 
-Licensed under the MIT License.
+This gem is licensed under the MIT License, copyright 2014 Jonathan Underwood. ZeroClipboard.js is also licensed under the MIT license, copyright 2014 Jon Rohan, James M. Greene.
